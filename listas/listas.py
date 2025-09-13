@@ -1,6 +1,6 @@
 planetas=["Mercurio","Venus","Tierra","Marte","Jupiter","Saturno","Urano","Neptuno"]
 # print(planetas[-1])
-print(planetas[1: 2])
+# print(planetas[1: ])
 # print(len(planetas))
 
 gravedad_en_planetas = [0.378,0.907,1,0.377,2.36,0.916,0.889,1.12]
