@@ -28,7 +28,7 @@ class auto:
         
 carro = auto("KIA","SOLUTO","2020") 
 carro.mostrar_informacion()
-carro.actualizar_kilometraje(-200)
+carro.actualizar_kilometraje(1000)
 carro.realizar_viaje(2000)
 carro.estado_auto()
 carro.mostrar_informacion()
